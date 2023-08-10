@@ -35,6 +35,6 @@ These files were not developed by the authors of the study. It is originally by 
 * FastHash.py
 * RegexParser.py
 
-This file was written by [Nayanamana Samarasinghe](nayanamana.com):
+This file was written by [Nayanamana Samarasinghe](https://nayanamana.com/):
 * blp_utils.py
 
