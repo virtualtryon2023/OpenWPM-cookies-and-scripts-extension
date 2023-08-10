@@ -1,4 +1,4 @@
-﻿# openwpm-cookies-and-scripts-extension
+﻿# OpenWPM-cookies-and-scripts-extension
 
 This repository contains the openWPM extension that was used in the study for the measurement of third-party tracking cookies and scripts. Our extension allows us to get the following information about the crawled websites:
 
